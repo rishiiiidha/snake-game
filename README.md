@@ -34,9 +34,9 @@ This is a simple Snake Game implemented in Python using the Turtle Graphics libr
 - The game resets if you hit the edges, and your score is displayed.
 - If you beat your previous high score, it will be updated and stored.
 
-## Screenshots
-   <img width=500px height=300px src="https://raw.githubusercontent.com/rishiiiidha/snake-game/main/img/img1.jpg">
-   <img width=500px height=300px src="https://raw.githubusercontent.com/rishiiiidha/snake-game/main/img/img2.jpg">
+## Game
+   <img width=400px height=400px src="https://raw.githubusercontent.com/rishiiiidha/snake-game/main/img/img1.png">
+   <img width=400px height=400px src="https://raw.githubusercontent.com/rishiiiidha/snake-game/main/img/img2.png">
 
 ## Future Improvements
 - Add more customization options (speed, colors, etc.).
