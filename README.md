@@ -1,7 +1,7 @@
 # Snaky Run : Snake Game with Turtle Graphics
 
 ## Introduction
-This is a simple Snake Game implemented in Python using the Turtle Graphics library. The game allows the player to control a snake, eat food to grow longer, and avoid colliding with the edges of the screen or the snake's own body. The score and high score are displayed on the screen.
+This is a simple Snake Game implemented in Python using the Turtle Graphics library.
 
 ## Features
 - Snake movement controlled by arrow keys.
@@ -38,14 +38,4 @@ This is a simple Snake Game implemented in Python using the Turtle Graphics libr
    <img width=400px height=400px src="https://raw.githubusercontent.com/rishiiiidha/snake-game/main/img/img1.png">
    <img width=400px height=400px src="https://raw.githubusercontent.com/rishiiiidha/snake-game/main/img/img2.png">
 
-## Future Improvements
-- Add more customization options (speed, colors, etc.).
-- Implement different levels of difficulty.
-- Add sound effects or background music.
-
-
-## Have a slithering good time and enjoy the challenge of beating your high score in this classic Snake Game! 🐍
-![JungleBookSnakeGIF](https://github.com/rishiiiidha/snake-game/assets/126899168/ede31eae-d219-4e4b-bae2-95d18b79656a)
-
----
 
